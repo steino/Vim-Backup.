@@ -1,1 +1,0 @@
-/home/steino/.vim/
